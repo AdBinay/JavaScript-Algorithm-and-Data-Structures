@@ -23,4 +23,4 @@ to follow the spacing as it looks above, with no spaces between escape sequences
 
 Note: The indentation for SecondLine is achieved with the tab escape character, not spaces. */
 
-const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
