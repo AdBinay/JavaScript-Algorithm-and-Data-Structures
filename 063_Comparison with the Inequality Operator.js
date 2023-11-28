@@ -25,5 +25,5 @@ function testNotEqual(val) {
     return "Equal";
   }
   
-  testNotEqual(10);
+testNotEqual(10);
 
